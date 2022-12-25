@@ -1,0 +1,12 @@
+{
+  "name": "Panen Raya",
+  "short_name": "Panen Raya",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
